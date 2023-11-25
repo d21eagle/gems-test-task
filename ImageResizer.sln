@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer", "ImageResizer\ImageResizer.csproj", "{7FAA8F79-E09C-4374-85CF-D93DFF6E7C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.Tests", "ImageResizer.Tests\ImageResizer.Tests.csproj", "{A5D6E4AA-7C43-49C7-9A21-D98CEDE51E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAA8F79-E09C-4374-85CF-D93DFF6E7C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA8F79-E09C-4374-85CF-D93DFF6E7C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA8F79-E09C-4374-85CF-D93DFF6E7C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA8F79-E09C-4374-85CF-D93DFF6E7C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D6E4AA-7C43-49C7-9A21-D98CEDE51E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6E4AA-7C43-49C7-9A21-D98CEDE51E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D6E4AA-7C43-49C7-9A21-D98CEDE51E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D6E4AA-7C43-49C7-9A21-D98CEDE51E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
